@@ -1,0 +1,45 @@
+{
+    "editor.fontSize": 20,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Operator Mono SSm Lig",
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "workbench.colorCustomizations": {},
+    "workbench.colorTheme": "Nord Operator Theme",
+    "vim.easymotionMarkerHeight": 22,
+    "vim.easymotionMarkerFontSize": "16",
+    "vim.easymotionMarkerWidthPerChar": 12,
+    "vim.easymotionMarkerFontFamily": "Fira Code",
+    "sync.gist": "f023468ac7a9183ca035b4ddbf41fe36",
+    "git.autofetch": true,
+    "workbench.activityBar.visible": false,
+    "dart.openDevTools": "flutter",
+    "vim.easymotion": true,
+    "vim.sneak": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+      {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+      }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+      {
+        "before": ["<leader>", "d"],
+        "after": ["d", "d"]
+      },
+      {
+        "before": ["<C-n>"],
+        "commands": [":nohl"]
+      }
+    ],
+    "vim.leader": "<space>",
+    "vim.handleKeys": {
+      "<C-a>": false,
+      "<C-f>": false
+    },
+    "editor.suggest.showClasses": false
+}
