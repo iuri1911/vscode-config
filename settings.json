@@ -5,7 +5,7 @@
     "dart.previewFlutterUiGuides": true,
     "dart.previewFlutterUiGuidesCustomTracking": true,
     "workbench.colorCustomizations": {},
-    "workbench.colorTheme": "Nord Operator Theme",
+    "workbench.colorTheme": "Tokyo Night",
     "vim.easymotionMarkerHeight": 22,
     "vim.easymotionMarkerFontSize": "16",
     "vim.easymotionMarkerWidthPerChar": 12,
@@ -44,5 +44,6 @@
     "editor.suggest.showClasses": false,
     "editor.fontWeight": "100",
     "sync.autoUpload": true,
-    "sync.autoDownload": true
+    "sync.autoDownload": true,
+    "editor.formatOnSave": true
 }
