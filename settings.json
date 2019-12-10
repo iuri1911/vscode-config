@@ -1,7 +1,7 @@
 {
     "editor.fontSize": 20,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "Operator Mono SSm Lig",
+    "editor.fontFamily": "Fira Code",
     "dart.previewFlutterUiGuides": true,
     "dart.previewFlutterUiGuidesCustomTracking": true,
     "workbench.colorCustomizations": {},
@@ -10,7 +10,7 @@
     "vim.easymotionMarkerFontSize": "16",
     "vim.easymotionMarkerWidthPerChar": 12,
     "vim.easymotionMarkerFontFamily": "Fira Code",
-    "sync.gist": "f023468ac7a9183ca035b4ddbf41fe36",
+    "sync.gist": "6e2d921ca3a1d499838586ffde6a5609",
     "git.autofetch": true,
     "workbench.activityBar.visible": false,
     "dart.openDevTools": "flutter",
@@ -41,5 +41,8 @@
       "<C-a>": false,
       "<C-f>": false
     },
-    "editor.suggest.showClasses": false
+    "editor.suggest.showClasses": false,
+    "editor.fontWeight": "100",
+    "sync.autoUpload": true,
+    "sync.autoDownload": true
 }
